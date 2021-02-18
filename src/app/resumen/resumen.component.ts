@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { RcserviciosService } from '../services/rcservicios.service';
 
 @Component({
   selector: 'app-resumen',
@@ -6,8 +7,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./resumen.component.css']
 })
 export class ResumenComponent implements OnInit {
-
-  constructor() { }
+  listProfesion: any[]=[];
+  constructor(public rcService: RcserviciosService) {
+    //this.listProfesion = rcService.profesional;
+  }
 
   ngOnInit(): void {
   }
