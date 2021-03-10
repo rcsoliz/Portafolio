@@ -10,4 +10,8 @@
 10 Creacion Carlos 10
 11 Creacion Roberto 11
 12 Creacion Carlos 12
+<<<<<<< HEAD
 13 Creacion Carlos 13
+=======
+13 Creacion Roberto 13
+>>>>>>> Developer/Roberto
