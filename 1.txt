@@ -15,4 +15,8 @@
 =======
 13 Creacion Roberto 13
 >>>>>>> Developer/Roberto
+<<<<<<< HEAD
 14 Creacion Roberto 14
+=======
+14 Creacion Carlos 14
+>>>>>>> Developer/Carlos
